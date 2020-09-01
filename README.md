@@ -4,9 +4,16 @@ datasets. A customized small CNN model is applied for OCR. Moreover Using OpenCV
 
 We use
  -Python 3.8
+ 
  -Tensorflow 2.0
+ 
  -keras
+ 
  -numpy
- -opencv etc.
+ 
+ -opencv 
+ 
+ -Google Colab
+ 
  
 
